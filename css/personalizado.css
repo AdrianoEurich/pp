@@ -1,0 +1,60 @@
+/* 
+    Created on : 02/10/2021, 19:59:03
+    Author     : Adriano
+*/
+
+/* Menu fixado ao topo */
+body {
+    min-height: 75rem;
+    padding-top: 2.5rem;
+}
+
+.link {
+    top:-100px;
+    position: relative;
+    z-index: 5;
+}
+
+.sobre {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-color:#D3D3D3 !important;
+    margin-bottom: 0rem !important;
+    border-radius: 0rem !important;
+    font-family: 'Lobster', cursive;
+}
+
+
+.acompanhantes {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-color:#fff !important;
+    border-radius: 0px !important;
+    margin-bottom: 0rem !important;
+    font-family: 'Lobster', cursive;
+}
+
+.contato {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-color:#D3D3D3 !important;
+    margin-bottom: -3rem !important;
+    border-radius: 0px !important;
+    font-family: 'Lobster', cursive;
+}
+
+.rodape {
+    background-color: #090622 !important;
+    padding-top: 35px;
+    padding-bottom: 30px;
+    margin-bottom: 0rem !important;
+    border-radius: 0px !important;
+    color: #fff;
+    width: 100%;
+    font-family: 'Lobster', cursive;
+}
+
+.linkcard {
+    color: red;
+    text-decoration: none;
+}
